@@ -1,0 +1,14 @@
+#profile-container{
+	color: blue;
+}
+#profile-name{
+	color: red;
+
+}
+#profile-images{
+	color: pink;
+
+}
+body{
+	font-family: sans-serif;
+}
