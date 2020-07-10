@@ -13,6 +13,9 @@
 	color: pink;
 
 }
+#profile-job {
+    text-align: center;
+}
     body {
        width: 100%;
        height: 100%;
